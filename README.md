@@ -35,6 +35,7 @@ from sklearn.metrics import precision_score
 ```
 
 #### Loading the Data
+Dataset - https://drive.google.com/file/d/15FYJXeIVCedBhpqafJHN3a3euuxcLL4V/view?usp=drive_link
 
 The historical stock price data is loaded into a Pandas DataFrame. The data includes columns such as `Date`, `Open`, `High`, `Low`, `Close`, `Adj Close`, and `Volume`.
 
